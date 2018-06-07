@@ -1,3 +1,3 @@
 # Hello-world
-First repository - test - guide
-Hello it's a first project powered by GitHub's guide!
+dzień drugi gitHuba :X 
+pomyłak z tą wersją
